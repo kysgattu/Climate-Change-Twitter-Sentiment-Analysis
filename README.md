@@ -155,7 +155,7 @@ These tweets are labeled by three reviewers independently into 4 classes:
 
 ![alt tag](https://github.com/kysgattu/Climate-Change-Twitter-Sentiment-Analysis/blob/main/Project_Images/lstm_results.png)
 
-## Developer <a name='developers'></a>
+## Developers <a name='developers'></a>
 * [Kamal Yeshodhar Shastry Gattu](https://github.com/kysgattu)
 * [Venkata Sriram Rachapoodi](https://github.com/sriram-rachapoodi)
 
